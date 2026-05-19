@@ -1,4 +1,4 @@
-# SolarRadiationDataAnalysis
+﻿# SolarRadiationDataAnalysis
 
 ## Task 1: Git and GitHub
 ### Tasks:
@@ -96,5 +96,5 @@
 - Design and develop the Streamlit dashboard to visualize the dataset with interactive elements.
 - Document the development process and usage instructions in the README.md file.
 
-**Author:** Mihret Agegnehu
+**Author:** Mahlet Agegnehu
 
